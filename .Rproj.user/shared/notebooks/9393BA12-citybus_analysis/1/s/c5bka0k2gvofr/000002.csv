@@ -1,0 +1,7 @@
+"0","bigger_service <- trips %>% "
+"0","  group_by(service_id) %>% "
+"0","  count(service_id) %>% "
+"0","  arrange(desc(n)) %>% "
+"0","  head(1)"
+"0",""
+"0","bigger_service"

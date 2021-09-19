@@ -1,0 +1,7 @@
+"0","stop_times <- stop_times %>% "
+"0","  filter("
+"0","    stop_sequence == 1 &"
+"0","      direction_id == 0 &"
+"0","      service_id == bigger_service$service_id"
+"0","  )"
+"0","head(stop_times)"

@@ -1,0 +1,9 @@
+{
+    "path" : "C:/Users/Dee/root/Projects/personal_real_projects/mobility-analytics/data/Austria/gtfs",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

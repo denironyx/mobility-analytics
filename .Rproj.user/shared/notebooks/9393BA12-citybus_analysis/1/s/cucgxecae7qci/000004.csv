@@ -1,0 +1,4 @@
+"0","trips %>% "
+"0","  group_by(service_id) %>% "
+"0","  count(service_id) %>% "
+"0","  arrange(desc(n))"

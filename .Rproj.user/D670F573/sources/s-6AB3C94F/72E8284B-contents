@@ -1,0 +1,3 @@
+devtools::install_github('ropensci/gtfsr', build_vignettes = TRUE)
+
+gtfsr::import_gtfs

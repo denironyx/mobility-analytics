@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1622963673687.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8606EF39",
+    "lastKnownWriteTime" : 1623058560,
+    "last_content_update" : 1623058560139,
+    "path" : "C:/Users/Dee/root/Projects/personal_real_projects/mobility-analytics/output/citybus_analysis.Rmd",
+    "project_path" : "output/citybus_analysis.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "180,82",
+        "scrollLine" : "167",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

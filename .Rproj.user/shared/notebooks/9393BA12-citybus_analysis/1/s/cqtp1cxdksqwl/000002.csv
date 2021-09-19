@@ -1,0 +1,5 @@
+"0","line <- output_data %>% "
+"0","  filter(route_id == '22-10-j20-1')"
+"0",""
+"0","## factorise ""time_window"""
+"0","line$time_window <- factor(line$time_window, levels = unique(line$time_window))"

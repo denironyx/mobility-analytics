@@ -1,0 +1,6 @@
+"0","output_data <- stop_times %>% "
+"0","  group_by_at(vars(route_id, route_short_name, arrival_time)) %>% "
+"0","  count(arrival_time) %>% "
+"0","  mutate(time_window = paste(arrival_time, ""00"", sep = ':')) %>% "
+"0","  select(route_id, route_short_name, arrival_time, time_window, n)"
+"0","head(output_data)"
